@@ -173,7 +173,7 @@ func (inst *cache) parseMediaTypeWithResFileName(filename string) mimetypes.Type
 		str := str1 + "/" + str2
 		return mimetypes.Type(str)
 	}
-	return "bad/type"
+	return mimetypes.Type(filename) // "bad/type"
 }
 
 func (inst *cache) addRes(res resources.Resource) error {

@@ -32,6 +32,7 @@ func (inst*autoRegistrar) addAll() error {
     
     inst.register(&p5117e698cd_unit_DemoUnit{})
     inst.register(&p5117e698cd_unit_IconsServiceUnit{})
+    inst.register(&p51a2e1bfed_webunits_TestImageListController{})
 
 
     return nil

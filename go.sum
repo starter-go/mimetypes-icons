@@ -119,6 +119,8 @@ github.com/starter-go/mimetypes-common v0.0.3 h1:rCOkA/3eeaVhcCLQHJN0vJZPhATbouw
 github.com/starter-go/mimetypes-common v0.0.3/go.mod h1:LyW+EV2jmrIkigdThByJbNPsl0IOICFUi/BpVJW5yDo=
 github.com/starter-go/mimetypes-common v0.0.4 h1:cEEfQy37F145NTc9ytNWQwxxOQq0Jo3tu1Q2cLuNofg=
 github.com/starter-go/mimetypes-common v0.0.4/go.mod h1:UR/JQuYzvDClNn0yUV1ko73T2h6PJ5mVnauEfssetvY=
+github.com/starter-go/mimetypes-common v0.0.6 h1:2ZMUoEJOvqYST1HLJaGUPc4kPuBh7pPFQhpeY53OllY=
+github.com/starter-go/mimetypes-common v0.0.6/go.mod h1:UR/JQuYzvDClNn0yUV1ko73T2h6PJ5mVnauEfssetvY=
 github.com/starter-go/module-gorm-mysql v0.9.12 h1:pN1JeC0do3Ihem+ddqBoz4S8GQgc5bSIcEbj7YYtAWQ=
 github.com/starter-go/module-gorm-mysql v0.9.12/go.mod h1:lNbJjC0EcO6xkOPEpXVi0bZq9Tc21tlkzaR91o9JEqY=
 github.com/starter-go/module-gorm-mysql v1.0.0 h1:aWZ9Pc0EajrifTCMizQ9Q2RPpD1w3wzS5kWwmMfBae4=
